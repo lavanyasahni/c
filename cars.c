@@ -13,4 +13,5 @@ int main(void)
 	scanf_s("%d", &l);
 	valor = l * 100 / (kmf - kmi);
 	printf("o teu carro gastou %.1f litrod aos 100km", valor);
+return 0;
 }
